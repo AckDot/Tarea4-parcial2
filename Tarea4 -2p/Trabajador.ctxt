@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trabajador
+comment1.params=nombre\ edad\ salario
+comment1.target=Trabajador(java.lang.String,\ byte,\ int)
+comment2.params=
+comment2.target=java.lang.String\ Trabaja()
+comment3.params=
+comment3.target=java.lang.String\ Comer()
+comment4.params=
+comment4.target=java.lang.String\ Vacacion()
+numComments=5

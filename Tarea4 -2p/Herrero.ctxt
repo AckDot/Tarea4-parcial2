@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Herrero
+comment1.params=objeto\ nombre\ edad\ salario
+comment1.target=Herrero(java.lang.String,\ java.lang.String,\ byte,\ int)
+numComments=2

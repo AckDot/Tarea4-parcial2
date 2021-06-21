@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Zapatero
+comment1.params=calzado\ nombre\ edad\ salario
+comment1.target=Zapatero(java.lang.String,\ java.lang.String,\ byte,\ int)
+numComments=2
